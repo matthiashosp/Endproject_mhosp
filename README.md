@@ -6,3 +6,6 @@
 ## Das Rätsel: 
 ### In dem Raum, in dem man sich befindet, befinden sich verschiedene Objekte.Man kann mit den Objekten machen was man will. Doch nur durch eine gewisse Interaktion mit einem der Objekten bringt man das Eis zum schmelzen.
 
+## Version:
+### Unity 2017.2.0f3
+### SteamVR 2.5.0
